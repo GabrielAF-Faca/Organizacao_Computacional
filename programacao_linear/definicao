@@ -1,0 +1,14 @@
+
+
+A programação linear é um técnica para a Pesquisa Operacional, que consisnte de obter a melhor resolução de problemas
+de otimização de funções lineares sujeitas a restrições que são definidas por variáveis reais.
+
+Possui alguns métodos de resolução, sendo os principais:
+1) o método de Resolução Gráfica: usado para encontrar o ponto de interseção entre a linha da função objetivo e a região
+factível (conjunto das soluções factíveis[valor que satisfaça as restrições de um problema]) de um gráfico
+
+2) o Método Algébrico: Usado para resolver problemas onde cada variável é representada por um eixo do gráfico, logo,
+um problema com mais de duas variáveis não pode ser representado no plano, o que torna a visualização da solução
+impossível ou muito complexa
+
+3) Método Computacional:
